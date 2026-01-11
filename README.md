@@ -2,7 +2,7 @@
 
 This project analyzes how extreme weather and disaster events impact electricity revenue and economic pressure across U.S. states. By combining federal disaster data with electricity revenue metrics, the dashboard helps stakeholders understand where infrastructure and revenue are most exposed to climate-related risk.
 
----
+
 
 ## Data Sources
 
@@ -28,7 +28,7 @@ https://www.fema.gov/openfema-data-page/disaster-declarations-summaries-v2
   Public domain U.S. government data.  
   https://www.eia.gov/electricity/data/eia861/
 
----
+
 
 ## Technologies Used
 
@@ -60,7 +60,7 @@ Key steps included:
 
 The final dataset was exported as a clean CSV (tableau_dataset.csv) for visualization.
 
----
+
 
 ## Tableau Dashboard
 
@@ -79,7 +79,6 @@ The final analysis was built in **Tableau Cloud** and includes:
   - Property Damage(%)
   - Crop Damage(%)
 
----
 
 ## Purpose & Impact
 
@@ -89,7 +88,6 @@ This project demonstrates how environmental risk translates into economic pressu
 - State-level infrastructure planning
 - Disaster preparedness and investment prioritization
 
----
 
 
 ## Future Improvements
@@ -98,7 +96,6 @@ With more time, this project could be expanded by:
 - Adding **multi-year trend analysis**
 - Modeling **predictive risk scenarios**
 
----
 
 
 ## Notes
